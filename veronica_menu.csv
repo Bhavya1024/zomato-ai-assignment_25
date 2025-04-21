@@ -1,0 +1,90 @@
+Tag,Dish,Description,Price
+Coffee,Espresso,"a balanced double shot, brewed hot",Rs.200
+Coffee,Americano,made by pouring hot water over adouble espresso,Rs.240
+Coffee,Cappuccino,"double espresso, equal parts ofsteamed milk and foam",Rs.250
+Coffee,Ferrero Rocker,"ferrero rocher cream, double espresso, textured milk",Rs.300
+Coffee,Cafe Latte,double espresso with steamed milkand a thin layer of foam,Rs.250
+Coffee,Spanish Latte,"double espresso, condensed milk, cinnamon, milk",Rs.275
+Coffee,Hazelnut Cookie Latte,"hazelnut cookie milk, double espresso",Rs.300
+Coffee,Cortado / Piccolo,double espresso with 60 ml milk,Rs.240
+Coffee,Flat White,double espresso with microfoam milk,Rs.250
+Coffee,Cafe Mocha,double espresso with chocolate sauce and textured milk,Rs.300
+Coffee,Iced Latte,"(Cold Coffee)double espresso, milk, jaggery",Rs.280
+Coffee,Salted Caramel Popcorn Latte,"(Cold Coffee)double espresso, salted caramel, milk",Rs.330
+Coffee,Vietnamese Cold Coffee,"(Cold Coffee)double espresso, condensed milk",Rs.320
+Coffee,Cold Brew,(Cold Coffee)house cold brew blend,Rs.300
+Coffee,Elvis Parsely Cold Brew,"(Cold Coffee)parsely, ginger ale",Rs.330
+Coffee,Berry Cold Coffee,"(Cold Coffee)housemade strawberry sauce, double espresso, milk",Rs.350
+Coffee,Hawaiian Espresso-oh!,"(Cold Coffee)pineapple, double espresso",Rs.250
+Coffee,Midnight Brew,"(Cold Coffee)blackberry, pineapple, house cold brew",Rs.275
+Kombucha,Zen,"green tea, Kashmiri lavender, lemongrass",Rs.300
+Kombucha,Seasonal Kombucha,,Rs.300
+Kombucha,Pumpkin Spice Kombucha,"whole leaf green tea & orthodox tea blend, fruit herbs & spices(Umami Brew, Pune)",Rs.300
+Kombucha,Lychee Lemonade,"whole leaf Assam tea, lemons, lychees(Kultur'd , Jaipur)",Rs.300
+Kombucha,Cola Kombucha,"flavoured with green tea and cola, a low-sugar alternative(Mossant Fermentary, Bangalore)",Rs.300
+Tea,Almond Matcha Latte,,Rs.350
+Tea,Assam Tea / Green Tea,,Rs.250
+Tea,Chef’s Chai,,Rs.250
+Tea,Iced Hibiscus Tea,,Rs.250
+Tea,Veronica's Iced Tea,,Rs.250
+Tea,Iced Matcha Tonic,,Rs.300
+Brekkie Of Champs,Carbonara Scramble,"bacon bits, parmesan,pepper cream cheese",Rs.450
+Brekkie Of Champs,Pancake Stack,maple & cream / nutella & cream,Rs.450
+Brekkie Of Champs,Loaded Mediterranean Omelette,"roasted broccoli, cherry tomato,olives, burrata",Rs.395
+Brekkie Of Champs,Brekkie Honey Toast,"stracciatella, sea salt",Rs.425
+Brekkie Of Champs,Mexican Skillet Eggs,"refried beans, guacamole,hash browns, salsa",Rs.425
+Brekkie Of Champs,Truffle Mushroom Omelette,"shaved parmesan, scallion, chilli relish",Rs.375
+Brekkie Of Champs,Custard French Toast,"berry compote, crème chantilly, maple syrup",Rs.395
+Brekkie Of Champs,Choriz Chilli Fry Skillet Eggs,"hash brown, roasted tomato",Rs. 450
+Brekkie Of Champs,Sriracha Chicken Omelette,"hash brown, roasted cherry tomato, string cheese",Rs.395
+Brekkie Of Champs,"Sausage, Egg & Cheese Tacos","chicken sausage, jalapeno salsa verde, sharp cheddar",Rs.450
+Brekkie Of Champs,Pastrami Burnt Ends Tacos,"scrambled eggs, dill pickles",Rs.475
+Brekkie Of Champs,Hangover Tacos,"bacon rashers, scrambled eggs,guacamole, habanero salsa",Rs.460
+Get Baked,Garlic Cheese Roll,,Rs.360
+Get Baked,Truffle Mushroom Quiche,,Rs.325
+Get Baked,Smoked Corn Danish,,Rs.325
+Get Baked,Carbonara Swirl,,Rs.375
+Get Baked,Kerala Egg Puff,,Rs.250
+Get Baked,Mexican Lamb & Cheese Roll,,Rs.390
+Get Baked,Char Siu Chicken Bun,,Rs.350
+Get Baked,Winter Berry & Pistachio Tart,,Rs.395
+Get Baked,Apple Pie Croissant Bun,,Rs.395
+Get Baked,Vero's Maple Pecan Pie,,Rs.375
+Get Baked,Dark Chocolate Croissant Bun,,Rs.395
+Get Baked,Soft Center Hazelnut $ Chocolate Cookie,,Rs.250
+Get Baked,Croissant,,Rs.190
+Get Baked,Pain Au Chocolat,,Rs.285
+Get Baked,Espresso Cinnamon Cake,,Rs.270
+,"Two Hands,“Gnarly Dudes”, Shiraz","Barossa Valley, Australia","Glass: Rs.1,200"
+,"Susana Balbo, “Crios”,Torrontes","Mendoza, Argentina",Glass: Rs.950
+,"Mont Marcal, Brut Rosado Cava",Penedès | Spain,"Glass: Rs.1,000"
+,"9 Lives, Riesling","Central Valley, Chile",Glass: Rs.850
+Small Bites,Dirty Fries,"fries with truffle oil, parmesan cheese & in-house hot sauce",regular: Rs.190 | family bowl: Rs.400
+Small Bites,Salted Fries,,regular: Rs.99 | family bowl: Rs.250
+Small Bites,Peri Peri Fries,,regular: Rs.250 | family bowl: Rs.350
+Small Bites,Vero's Momos,"chicken breakfast sausage, aged cheese dumplings, sichuan hot oil, shaved parmesan",Rs.395
+Small Bites,Shrimp Popcorn,tempura fried shrimp with gochujang sauce,Rs.400
+Small Bites,Dips,gochujang | honey mustard | basil pesto | garlic sour cream,Rs.40 (each)
+Salads,Veronica’s Caesar,"house mix, croutons, avocado,heirloom tomatoes, cashew sour cream",Rs.325 / Rs.550
+Salads,Asian Spicy Crunch,"house mix, crispy wonton skin,roasted broccoli, orange segments, spicy sesame dressing",Rs.325 / Rs.600
+Salads,Burra Burra Bowl,"house mix, burrata, heirloom tomatoes, crispy quinoa, basil emulsion",Rs.325 / Rs.650
+Salads,Mediterranean Platter,"house mix, hummus, quinoa tabbouleh, avocado",Rs.325 / 650
+Sandwiches,The Avo Snob,"marinated tomatoes, basil dressing, burrata, ciabatta",Rs.625
+Sandwiches,Mumbai Chilli Cheese Melt,"cheddar, jalapeños,naga hot honey, milk loaf",Rs.375
+Sandwiches,Bandra Bro-colli Falafel Burger,"garlic labneh, sharp cheddar,jalapeno herb sauce, dutch crunch",Rs.500
+Sandwiches,Taming The (Mu)shroom Melt,"sun-dried tomatoes, confit garlic,truffle cream, dutch crunch",Rs. 500
+Sandwiches,Clucking Good Shawarma,"smoked chicken kebab, hummus, garlic tahini, pickled onions, pita",Rs.650
+Sandwiches,Oh Shrimp! Po’ Boy,"gochujang flaming sauce, avocado, shredded lettuce, dutch crunch",Rs.625
+Sandwiches,The Big Floyd,"nashville-style hot fried chicken,tamarind ranch, pickles, milk bun",Rs.625
+Sandwiches,Pass The Pastrami,"house-made pastrami, stone-ground mustard, dill pickles, milk loaf",Rs.740
+Sandwiches,The Italian Job,"mortadella, smoked ham, buffalo mozz, hot relish, ciabatta",Rs.675
+Sandwiches,Bangin' Lamb Burger,"Thai-spiced double patty smash,honey mustard, milk bunAdd a dirty fried egg +90",Rs.720
+Sandwiches,Veronica’s Smash Burger,"double short rib & marrow patty,  browned onion, cheddar, bacon,fancy sauce, milk bunAdd a dirty fried egg +90",Rs.720
+Veronica's Special Pours,Madam Veronica's Beer,by Great State Aleworks,Rs.440
+Veronica's Special Pours,Milo's Mimosa,,Rs.999
+Veronica's Special Pours,Lunch Special,add a glass of Prosecco,Rs.999
+Wine,The Source,Sauvignon Blanc | Nashik | India,Glass: Rs.575
+Wine,The Source,Cabernet Sauvignon | Nashik | India,Glass: Rs.575
+Wine,"MAN Family, Chenin Blanc","Cape Coast, South Africa",Glass: Rs.850
+Wine,"Pasqua, Merlot Trevenezie","Veneto / Friuli, Italy",Glass: Rs.950
+Wine,Bisol Belstar “Cult” Prosecco,"Veneto, Italy","Glass: Rs.1,200"
