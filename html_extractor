@@ -1,0 +1,22 @@
+import requests
+import os
+
+# List of pages to scrape
+pages = {
+    'Home page': 'https://www.opedromumbai.com/',
+    'Menu': 'https://www.opedromumbai.com/menus/',
+    'About Us': 'https://www.opedromumbai.com/location/o-pedro/',    
+    # Add more pages as needed
+}
+
+# Create a directory to save pages
+os.makedirs('O_Pedra_pages', exist_ok=True)
+
+for name, url in pages.items():
+    response = requests.get(url)
+    if response.status_code == 200:
+        with open(f'O_Pedra_pages/{name}.html', 'w', encoding='utf-8') as file:
+            file.write(response.text)
+        print(f"{name.capitalize()} page saved successfully!")
+    else:
+        print(f"Failed to retrieve {name} page. Status code: {response.status_code}")
